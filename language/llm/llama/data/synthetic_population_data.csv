@@ -1,0 +1,1001 @@
+,id,name,gpa,field_of_study,income
+0,S00001,Marc Solomon,2.53,Anthropology,73706
+1,S00002,Suzanne Kidd,2.5,Business Administration,22259
+2,S00003,Michelle Griffin,2.42,Political Science,31192
+3,S00004,Hannah Dixon,2.05,Engineering,530431
+4,S00005,Mary Harris,3.13,Chemistry,370142
+5,S00006,William Frazier,2.1,Biology,659268
+6,S00007,Kristine Price,3.63,Paralegal,330559
+7,S00008,Angela Dean,2.85,Computer Science,34353
+8,S00009,Brooke Freeman,3.38,Chemistry,693974
+9,S00010,Diana Anderson,3.51,Economics,273211
+10,S00011,Autumn Martinez,3.79,Law,744928
+11,S00012,Kimberly Cummings,3.05,Computer Science,242142
+12,S00013,Anita Nguyen,2.67,Chemistry,605166
+13,S00014,Holly Diaz,3.19,Physics,338551
+14,S00015,Ronald Hoffman,2.78,Art,334424
+15,S00016,Patrick Watson,3.21,Biology,458222
+16,S00017,Monica Mclaughlin,3.44,Chemistry,394972
+17,S00018,Tina Cobb,2.14,Business Administration,367395
+18,S00019,William Mathis,2.78,Chemistry,391599
+19,S00020,Robyn Jackson,3.65,Mathematics,650373
+20,S00021,Justin Miller,2.68,Biology,557106
+21,S00022,Rebekah Cooper,2.41,Psychology,565898
+22,S00023,Brian Davidson,2.05,Business Administration,246128
+23,S00024,Curtis Cortez,2.3,Physics,538559
+24,S00025,Nicole Cobb,2.62,Biology,780996
+25,S00026,Charles Conrad,3.39,Business Administration,671694
+26,S00027,Kevin Nunez,3.69,Mathematics,222977
+27,S00028,Paul Henderson,3.22,Music,426827
+28,S00029,Michael Howard,3.29,Political Science,380572
+29,S00030,Robert Bailey,3.61,Statistics,569859
+30,S00031,Leslie Johns,2.16,Chemistry,427362
+31,S00032,Melissa Beard,2.18,Mathematics,605872
+32,S00033,Hermione Schultz,3.8,Chemistry,101449
+33,S00034,Jeffrey Garcia,2.57,Statistics,37663
+34,S00035,Katherine Lewis,3.07,Mathematics,174852
+35,S00036,James Frazier,3.41,Economics,35737
+36,S00037,John Silva,2.05,Art,604674
+37,S00038,Tara Mills,3.87,Physics,512932
+38,S00039,Hermione Wolf,3.65,Music,303007
+39,S00040,Aaron Lewis,3.69,Paralegal,603008
+40,S00041,Ronald Miranda,2.46,Law,380947
+41,S00042,Heather Lee,2.86,Biology,683649
+42,S00043,James Camacho,3.39,Computer Science,752142
+43,S00044,Danielle Guerra,2.29,Political Science,254985
+44,S00045,Gregory Austin,2.01,Political Science,564993
+45,S00046,Sherry Dudley,3.16,Mathematics,127224
+46,S00047,Joann Gutierrez,3.81,Engineering,716350
+47,S00048,Christopher King,3.65,Art,527777
+48,S00049,Roger Kelly,2.53,Law,443179
+49,S00050,Kelly Duran,3.08,Law,82284
+50,S00051,Matthew Espinoza,3.8,Physics,274606
+51,S00052,Ricky Anderson,3.01,Statistics,272863
+52,S00053,Angela Petty,3.18,Business Administration,770763
+53,S00054,David Green,3.54,Chemistry,741522
+54,S00055,Melanie Meyer,3.99,Paralegal,229545
+55,S00056,Michael Schultz,3.95,Anthropology,145462
+56,S00057,Brandon Silva,3.9,Mathematics,73369
+57,S00058,Jamie Maldonado,3.34,Music,411008
+58,S00059,Julie Brewer,3.4,Anthropology,318632
+59,S00060,Shane Fernandez,2.97,Computer Science,208101
+60,S00061,Danielle Gordon,2.46,Engineering,384545
+61,S00062,Leonard Collins,2.64,Political Science,111572
+62,S00063,Joshua Fernandez,2.44,Statistics,256850
+63,S00064,Dennis Curtis,3.57,Biology,330756
+64,S00065,Christopher Bradford,3.45,Biology,192208
+65,S00066,Michael Kelly,3.08,Engineering,688295
+66,S00067,Victor Jenkins,2.44,Paralegal,353807
+67,S00068,Adrienne Carrillo,2.72,Engineering,748009
+68,S00069,Robert Petty,3.81,Physics,211940
+69,S00070,Benjamin Bautista,2.3,Computer Science,409893
+70,S00071,Victoria Simpson,3.51,Business Administration,786819
+71,S00072,Deborah Farmer,2.74,Engineering,708395
+72,S00073,Tony Duffy,3.54,Paralegal,176183
+73,S00074,William Anderson,2.2,Law,131475
+74,S00075,Benjamin Walker,2.94,Political Science,784510
+75,S00076,Benjamin Deleon,2.46,Music,509554
+76,S00077,Stephanie Martin,3.62,Art,519515
+77,S00078,Vanessa Jackson,2.92,Paralegal,142562
+78,S00079,Kaylee Mcgee,3.92,Business Administration,368248
+79,S00080,Brittney Cohen,3.56,Computer Science,141923
+80,S00081,Denise Smith,3.42,Music,102386
+81,S00082,Jessica Nelson,2.87,Computer Science,794985
+82,S00083,Jessica Richards,3.18,Statistics,306128
+83,S00084,Anna Wolf,3.25,Engineering,312695
+84,S00085,Melissa Carlson,2.6,Computer Science,534518
+85,S00086,Michelle Hughes,2.86,Physics,57529
+86,S00087,Nathan Martin,2.59,Law,107720
+87,S00088,Madison Mills,2.23,Anthropology,389925
+88,S00089,Cynthia Phillips,3.35,Physics,127620
+89,S00090,Stephanie Wang,2.9,Computer Science,492087
+90,S00091,Kyle Yang,3.98,Economics,452780
+91,S00092,Brian Lopez,3.33,Physics,508149
+92,S00093,Bradley Mccoy,3.21,Chemistry,434093
+93,S00094,Daniel Mack,3.4,Psychology,127084
+94,S00095,Erik Jefferson,3.63,Physics,335203
+95,S00096,Justin Briggs,3.62,Business Administration,180722
+96,S00097,Jeffrey Perkins,2.16,Music,650596
+97,S00098,Megan Harris,2.51,Chemistry,160939
+98,S00099,Stephanie Turner,3.59,Political Science,632634
+99,S00100,Glenda Moore,2.09,Engineering,436325
+100,S00101,Tiffany Shepherd,3.68,Law,85665
+101,S00102,Andrea Gilbert,2.42,Business Administration,538667
+102,S00103,Donna Williams,3.31,Psychology,742634
+103,S00104,Pamela Moyer,3.08,Psychology,402250
+104,S00105,Veronica Austin,2.64,Mathematics,598098
+105,S00106,Ian Patterson,2.2,Law,726565
+106,S00107,Thomas Estes,3.4,Biology,73446
+107,S00108,Elizabeth Stanley,2.21,Business Administration,101769
+108,S00109,Hermione Hernandez,2.87,Political Science,370350
+109,S00110,Jimmy Ortiz,2.69,Biology,177122
+110,S00111,Joseph Thomas,3.06,Mathematics,776693
+111,S00112,Melinda Hill,3.54,Anthropology,298403
+112,S00113,Thomas Smith,2.8,Law,278448
+113,S00114,Erin Arnold,2.25,Political Science,388641
+114,S00115,Hermione Martinez,2.35,Political Science,455200
+115,S00116,Jeremy Richards,3.43,Art,425672
+116,S00117,Elijah Kim,3.4,Business Administration,369426
+117,S00118,Laurie Burke,2.58,Biology,531486
+118,S00119,Kayla Gutierrez,2.81,Mathematics,35517
+119,S00120,Chloe Munoz,2.7,Physics,86793
+120,S00121,Valerie Lynn,3.88,Music,114608
+121,S00122,Joshua Sutton,3.62,Political Science,460482
+122,S00123,Samantha Tran,3.1,Engineering,513192
+123,S00124,Christopher Fox,3.38,Business Administration,377779
+124,S00125,Julie Anderson,2.41,Paralegal,384786
+125,S00126,Linda Edwards,2.57,Chemistry,772858
+126,S00127,Sara Jenkins,2.61,Anthropology,638370
+127,S00128,Jeff Myers,3.72,Biology,640906
+128,S00129,Leslie King,3.5,Mathematics,155108
+129,S00130,Scott Garcia,2.69,Physics,504319
+130,S00131,Christina Sharp,2.59,Physics,562931
+131,S00132,Jerry Morris,2.01,Law,447644
+132,S00133,Jennifer Peck,2.66,Computer Science,52673
+133,S00134,Regina Beard,3.71,Political Science,84736
+134,S00135,Erin Murphy,3.9,Statistics,58875
+135,S00136,Lauren Robinson,3.47,Anthropology,655647
+136,S00137,Christine Frazier,2.95,Business Administration,249554
+137,S00138,Scott Jones,3.48,Anthropology,169524
+138,S00139,Aaron Miller,2.45,Physics,596277
+139,S00140,Charles Silva,2.74,Law,280334
+140,S00141,Nicholas Atkinson,3.39,Economics,510018
+141,S00142,Carol Gomez,3.05,Engineering,428582
+142,S00143,Charles Smith,2.97,Paralegal,498044
+143,S00144,Deanna Pennington,3.94,Business Administration,387803
+144,S00145,Mary Michael,3.63,Anthropology,55278
+145,S00146,Alexander Wilkins,3.71,Business Administration,229491
+146,S00147,Johnny Woods,3.85,Psychology,350821
+147,S00148,William Walker,3.58,Law,755287
+148,S00149,Michelle Haynes,2.06,Music,176287
+149,S00150,Jason Rhodes,2.86,Physics,614386
+150,S00151,Emily Bell,2.8,Computer Science,676692
+151,S00152,Jodi Martinez,3.49,Political Science,668139
+152,S00153,Jessica Porter,2.89,Biology,378174
+153,S00154,Tyler Fitzpatrick,2.86,Chemistry,690130
+154,S00155,Melissa Collier,3.62,Economics,762330
+155,S00156,Lance Bailey,3.65,Music,506814
+156,S00157,Stephen Jackson,3.57,Computer Science,52410
+157,S00158,Connie Mccall,3.65,Music,474247
+158,S00159,Anthony Ortiz,3.24,Law,308759
+159,S00160,Ernest Hoffman,3.44,Law,212442
+160,S00161,Stephanie Shelton,2.24,Psychology,633415
+161,S00162,Frank Mcmillan,3.17,Law,57096
+162,S00163,Jeffrey Bowman,2.56,Physics,360013
+163,S00164,Michael Holmes,3.33,Music,280410
+164,S00165,Jeffrey Rice,2.94,Psychology,526143
+165,S00166,David Lucas,3.82,Biology,697355
+166,S00167,Cameron Dean,2.22,Biology,485010
+167,S00168,Sandra James,2.9,Art,326828
+168,S00169,Lisa Adams,2.18,Biology,413482
+169,S00170,Douglas Dickerson,4.0,Business Administration,575418
+170,S00171,Hermione Davis,2.9,Anthropology,60484
+171,S00172,Alejandra Burnett,2.63,Law,20071
+172,S00173,Adrian Thompson,3.63,Chemistry,111461
+173,S00174,Annette Lambert,2.72,Physics,134798
+174,S00175,Brian Mckenzie,2.74,Music,164229
+175,S00176,Russell Caldwell,3.3,Mathematics,24818
+176,S00177,Anthony Lyons,2.14,Music,342426
+177,S00178,Rebecca Reid,3.68,Biology,360846
+178,S00179,Todd Juarez,2.3,Chemistry,339350
+179,S00180,Stephanie Carr,2.53,Chemistry,657484
+180,S00181,Matthew Wilson,3.13,Art,33627
+181,S00182,Linda Mooney,3.39,Engineering,592362
+182,S00183,James Jones,2.61,Physics,99378
+183,S00184,William Robinson,2.5,Music,679650
+184,S00185,Omar White,3.25,Psychology,74967
+185,S00186,Amanda Parks,2.5,Art,677297
+186,S00187,Bradley Bailey,2.54,Art,749922
+187,S00188,Robert Scott,3.9,Biology,216376
+188,S00189,Carrie Foster,2.47,Engineering,412459
+189,S00190,Kelsey Miller,3.63,Computer Science,28404
+190,S00191,Brenda Doyle,2.28,Engineering,26070
+191,S00192,Connie Watkins,2.3,Computer Science,476245
+192,S00193,Joseph Lang,3.67,Computer Science,420093
+193,S00194,Sarah Herring,3.67,Computer Science,195257
+194,S00195,Michael Nguyen,2.7,Chemistry,686070
+195,S00196,Elaine Carroll,3.45,Anthropology,751964
+196,S00197,Nicole Garcia,2.24,Paralegal,263587
+197,S00198,Kim Mills,2.75,Engineering,774223
+198,S00199,Jenny Steele,3.7,Physics,80798
+199,S00200,Mary Gonzalez,3.31,Statistics,235412
+200,S00201,Marcus Douglas,3.33,Business Administration,70356
+201,S00202,John Rich,3.07,Law,520025
+202,S00203,Christopher Simpson,2.38,Mathematics,388224
+203,S00204,Sandra Mcdaniel,3.74,Statistics,144430
+204,S00205,William Bowen,2.85,Political Science,518527
+205,S00206,Michael Kennedy,2.23,Music,159173
+206,S00207,Steven Griffith,2.94,Statistics,710389
+207,S00208,Megan Robertson,2.15,Art,619795
+208,S00209,William Fuentes,3.9,Business Administration,406618
+209,S00210,Vincent Wilson,2.02,Computer Science,643117
+210,S00211,Ryan Bishop,2.22,Chemistry,127582
+211,S00212,William Coleman,3.57,Chemistry,361083
+212,S00213,Crystal Evans,3.72,Music,712778
+213,S00214,Shannon Jones,3.26,Mathematics,239008
+214,S00215,Tammie Dudley,3.78,Law,456878
+215,S00216,Joe Logan,2.19,Biology,467262
+216,S00217,Stephen Brown,3.89,Psychology,683950
+217,S00218,Kaitlin Barker,3.66,Biology,761234
+218,S00219,Hector Lopez,3.69,Biology,436408
+219,S00220,Jennifer Moore,3.79,Chemistry,111948
+220,S00221,David Garrett,2.61,Statistics,233248
+221,S00222,Patricia Figueroa,3.74,Business Administration,602948
+222,S00223,Richard Hanson,3.46,Paralegal,757404
+223,S00224,Michael Lawrence,3.44,Anthropology,109792
+224,S00225,Susan Greer,2.03,Mathematics,350342
+225,S00226,Amy Price,2.55,Engineering,64732
+226,S00227,Natasha Crawford,3.49,Engineering,589490
+227,S00228,Andrew Stevens,2.49,Computer Science,491606
+228,S00229,Peter Miller,3.83,Paralegal,373854
+229,S00230,Amber Harper,2.73,Chemistry,648145
+230,S00231,Selena Vaughn,2.25,Paralegal,609200
+231,S00232,Benjamin Sanchez,2.88,Music,409506
+232,S00233,Walter Brooks,3.53,Computer Science,62300
+233,S00234,Maria Blackwell,3.04,Biology,380478
+234,S00235,Angela Powers,3.01,Mathematics,211868
+235,S00236,Juan Hayes,2.4,Computer Science,89921
+236,S00237,Matthew Owen,2.78,Statistics,539452
+237,S00238,Robert Campbell,3.02,Paralegal,89551
+238,S00239,Steven Phillips,3.74,Paralegal,304732
+239,S00240,Alexis Fitzgerald,2.38,Business Administration,51854
+240,S00241,Angel Berry,3.71,Art,776085
+241,S00242,Michelle Holt,2.16,Psychology,171084
+242,S00243,Benjamin Stanley,3.29,Biology,100950
+243,S00244,Mario Bates,3.26,Business Administration,66135
+244,S00245,Tracey Ashley,2.81,Music,49046
+245,S00246,Rachael Taylor,2.52,Anthropology,121978
+246,S00247,Diana Smith,3.53,Law,113546
+247,S00248,Don Wilcox,2.77,Computer Science,680140
+248,S00249,Eric Cruz,3.26,Paralegal,584781
+249,S00250,Brian Walter,2.43,Paralegal,316304
+250,S00251,Cassandra Maldonado,2.67,Biology,408778
+251,S00252,Heather Clarke,3.63,Business Administration,339284
+252,S00253,Regina Lara,3.46,Statistics,710417
+253,S00254,Matthew Taylor,3.07,Mathematics,683092
+254,S00255,Brian Riddle,3.08,Statistics,694772
+255,S00256,William Lindsey,2.52,Anthropology,779882
+256,S00257,Raymond Smith,3.05,Anthropology,115330
+257,S00258,Luis Cox,2.35,Psychology,741432
+258,S00259,Matthew Bennett,3.99,Computer Science,785962
+259,S00260,Jonathan West,2.42,Mathematics,478754
+260,S00261,Austin Reynolds,2.59,Anthropology,219972
+261,S00262,James Conner,2.29,Political Science,305565
+262,S00263,James Ross,2.03,Music,33953
+263,S00264,David Stafford,2.65,Engineering,711247
+264,S00265,Julie Young,2.19,Engineering,518462
+265,S00266,Felicia Nguyen,3.15,Chemistry,112172
+266,S00267,Christopher Gross,3.16,Economics,131417
+267,S00268,Stacy Tucker,3.14,Physics,114385
+268,S00269,Madison Snyder,3.75,Paralegal,269686
+269,S00270,Ashley Atkins,3.93,Economics,366912
+270,S00271,Thomas Wilson,2.73,Computer Science,479411
+271,S00272,Jennifer Richardson,2.98,Statistics,560153
+272,S00273,Christopher Bowers,2.47,Statistics,630528
+273,S00274,Rebecca Davis,2.41,Paralegal,693187
+274,S00275,Carol Garrett,3.68,Computer Science,631104
+275,S00276,James Gonzalez,3.84,Music,167058
+276,S00277,Isaac Pierce,3.06,Paralegal,625709
+277,S00278,Aaron Kaufman,3.12,Art,44247
+278,S00279,Jeffrey Mendoza,3.41,Art,799239
+279,S00280,Steven Brown,3.43,Engineering,383813
+280,S00281,Wayne Harris,2.79,Engineering,215520
+281,S00282,Michael Baker,2.69,Art,448744
+282,S00283,Brittany Henderson,3.99,Psychology,83322
+283,S00284,Thomas Davis,3.03,Engineering,143823
+284,S00285,Keith Thomas,2.03,Business Administration,149902
+285,S00286,Alicia White,3.89,Engineering,790885
+286,S00287,Linda Pierce,3.7,Mathematics,488553
+287,S00288,Kim Thompson,2.46,Engineering,345265
+288,S00289,Erica Holt,3.94,Mathematics,550205
+289,S00290,Theodore Barron,3.78,Paralegal,343236
+290,S00291,Natalie Alvarez,3.15,Law,338410
+291,S00292,Jacob Swanson,3.26,Art,209029
+292,S00293,Rodney Bowman,3.14,Biology,549876
+293,S00294,Autumn Brown,2.27,Computer Science,689920
+294,S00295,Ashley Fritz,2.71,Engineering,288007
+295,S00296,Megan Young,3.7,Physics,197569
+296,S00297,Lisa Duke,3.94,Psychology,164850
+297,S00298,Amanda Cooper,3.84,Art,672069
+298,S00299,Veronica Jones,2.72,Art,444729
+299,S00300,Eric Flores,3.6,Law,474031
+300,S00301,Valerie Bishop,2.69,Mathematics,457291
+301,S00302,Jeffrey Bird,2.13,Chemistry,491215
+302,S00303,Joshua Frederick,3.39,Music,46988
+303,S00304,Gregory Davis,3.79,Economics,442176
+304,S00305,Jeff Wallace,2.92,Chemistry,356546
+305,S00306,Ann Gates,2.95,Business Administration,63896
+306,S00307,Mike Leon,2.34,Psychology,572412
+307,S00308,Wendy Jackson,3.69,Paralegal,118247
+308,S00309,Kelly Williams,3.93,Physics,689367
+309,S00310,Jessica Cooper,2.67,Law,462511
+310,S00311,Gary Diaz,3.48,Biology,450392
+311,S00312,Barbara Gray,2.74,Statistics,102507
+312,S00313,Mark Rivers,2.28,Psychology,105858
+313,S00314,Stephanie Morrow,3.27,Economics,257588
+314,S00315,Mark Henderson,2.41,Paralegal,663572
+315,S00316,Natalie Price,3.45,Political Science,115572
+316,S00317,Barry Martin,3.23,Music,409981
+317,S00318,Linda Kennedy,3.14,Statistics,302989
+318,S00319,Gavin Rodriguez,3.13,Political Science,581551
+319,S00320,Kathryn Palmer,3.7,Paralegal,224343
+320,S00321,Angela Johnson,2.03,Art,196435
+321,S00322,Terri Martin,2.39,Law,670772
+322,S00323,Richard Hart,2.71,Statistics,125212
+323,S00324,Matthew Gomez,2.53,Political Science,395042
+324,S00325,Kendra Montgomery,3.3,Biology,535785
+325,S00326,Shane Baker,3.4,Anthropology,38117
+326,S00327,Candace Dorsey,2.66,Paralegal,176661
+327,S00328,Thomas Cox,2.73,Computer Science,124631
+328,S00329,Angela Alexander,3.22,Mathematics,71527
+329,S00330,Katie Peterson,3.18,Physics,410968
+330,S00331,Jasmine Thomas,2.68,Economics,630845
+331,S00332,Michael Richard,3.64,Paralegal,562515
+332,S00333,Chad Simpson,2.58,Mathematics,65565
+333,S00334,Matthew Bradshaw,3.65,Mathematics,101315
+334,S00335,Christine Meadows,2.16,Anthropology,248545
+335,S00336,Michael Soto,3.07,Law,421883
+336,S00337,Christopher Mclaughlin,2.17,Music,633831
+337,S00338,Sara Lewis,3.72,Music,194028
+338,S00339,Diana Hill,2.56,Music,365934
+339,S00340,George Peterson,3.66,Political Science,687733
+340,S00341,Bruce Bailey,3.87,Engineering,72143
+341,S00342,Mike Chavez,2.29,Computer Science,712702
+342,S00343,Samantha Robles,3.19,Computer Science,52048
+343,S00344,Melissa Larsen,3.05,Political Science,183588
+344,S00345,Dennis Eaton,3.83,Physics,90048
+345,S00346,Shari Campbell,2.08,Engineering,468143
+346,S00347,Kimberly May,2.82,Political Science,242277
+347,S00348,Victor Peterson,3.78,Statistics,281368
+348,S00349,Kimberly Trevino,2.27,Biology,280783
+349,S00350,Thomas Jones,2.34,Paralegal,600815
+350,S00351,Nathan Pearson,3.79,Chemistry,603980
+351,S00352,Lauren Duncan,3.81,Physics,288431
+352,S00353,Laura Brown,2.0,Mathematics,230992
+353,S00354,Michael Morgan,2.1,Computer Science,412992
+354,S00355,Alex Cross,3.58,Mathematics,526526
+355,S00356,Leslie Anderson,2.0,Paralegal,667712
+356,S00357,Michael Skinner,2.3,Statistics,613800
+357,S00358,Seth Butler,3.85,Law,647214
+358,S00359,Hunter Johnson,3.74,Paralegal,454327
+359,S00360,Trevor Pennington,3.17,Physics,337960
+360,S00361,Jennifer Hurst,3.44,Computer Science,799591
+361,S00362,Debra Gallagher,3.84,Biology,250209
+362,S00363,Lindsay Ramirez,2.7,Psychology,121035
+363,S00364,Walter Davis,3.99,Engineering,395369
+364,S00365,Lisa White,2.82,Chemistry,151741
+365,S00366,Christine Miller,2.7,Business Administration,633611
+366,S00367,Travis Johnson,3.09,Economics,172987
+367,S00368,Phillip Walsh,3.32,Statistics,50389
+368,S00369,Charles Hubbard,2.42,Art,330315
+369,S00370,Alicia Banks,3.09,Art,354028
+370,S00371,Chelsea Munoz,2.72,Business Administration,612677
+371,S00372,David Avila,3.52,Economics,438546
+372,S00373,Jerry Smith,2.3,Biology,795505
+373,S00374,Jeff Gomez,2.21,Business Administration,413542
+374,S00375,Joshua Harris,3.83,Chemistry,372077
+375,S00376,James Coleman,2.26,Engineering,782421
+376,S00377,Kimberly Singh,2.94,Physics,142990
+377,S00378,Brian Miles,3.49,Physics,359038
+378,S00379,Parker Moore,3.11,Law,566705
+379,S00380,Megan Moore,2.3,Political Science,738545
+380,S00381,Denise Hunt,3.48,Law,60699
+381,S00382,Hermione Short,2.95,Political Science,162595
+382,S00383,Catherine Green,3.85,Music,89387
+383,S00384,Joy Parker,2.19,Political Science,211179
+384,S00385,Aaron James,2.95,Art,458517
+385,S00386,Isabel Mcmahon,3.51,Political Science,275949
+386,S00387,Michael Contreras,3.29,Mathematics,773549
+387,S00388,Crystal Cordova,3.58,Chemistry,53663
+388,S00389,Melvin Henderson,2.55,Paralegal,504943
+389,S00390,Stacy Dudley,3.56,Engineering,244184
+390,S00391,Steven Ramirez,2.78,Art,648820
+391,S00392,Kristen Edwards,3.1,Art,384954
+392,S00393,Colleen Cunningham,3.8,Chemistry,309176
+393,S00394,James Ray,2.74,Chemistry,332345
+394,S00395,Amanda Mack,2.74,Paralegal,702643
+395,S00396,James Davis,3.98,Paralegal,777001
+396,S00397,Walter Bell,3.75,Paralegal,273716
+397,S00398,James Dixon,3.76,Economics,643828
+398,S00399,Tina Adams,2.72,Political Science,418202
+399,S00400,Mario Anderson,2.64,Engineering,590497
+400,S00401,Leslie Medina,2.04,Economics,452075
+401,S00402,Frederick Mathis,3.16,Computer Science,228949
+402,S00403,Jason Martin,2.06,Computer Science,327841
+403,S00404,Marie Adams,2.44,Mathematics,229427
+404,S00405,Amanda Taylor,2.06,Economics,200514
+405,S00406,Michael Valentine,3.1,Art,268759
+406,S00407,Shannon Castillo,2.77,Anthropology,102821
+407,S00408,Henry Frank,3.14,Physics,731976
+408,S00409,Christopher Hawkins,3.55,Business Administration,371251
+409,S00410,Tyler Mosley,3.68,Statistics,289782
+410,S00411,Anthony Davis,2.18,Law,764320
+411,S00412,Aaron Greene,3.51,Physics,170625
+412,S00413,Kimberly Thomas,3.93,Business Administration,643790
+413,S00414,Amber Stevenson,3.51,Psychology,758719
+414,S00415,Joshua Green,3.83,Music,777166
+415,S00416,Scott Roman,3.27,Art,406105
+416,S00417,Derek Anderson,3.99,Business Administration,185812
+417,S00418,Todd Bishop,2.83,Chemistry,494327
+418,S00419,Kevin Perry,2.36,Chemistry,316709
+419,S00420,Jerry Lewis,2.49,Anthropology,262987
+420,S00421,Christina Thomas,2.19,Anthropology,614701
+421,S00422,Jeremy Pugh,3.35,Business Administration,215192
+422,S00423,Michael Goodwin,3.84,Law,469910
+423,S00424,Jonathan Brown,3.2,Music,338279
+424,S00425,Kimberly Allen,2.67,Psychology,264436
+425,S00426,Gabrielle Smith,2.68,Psychology,549916
+426,S00427,Megan Young,3.3,Anthropology,307126
+427,S00428,Edward Brown,2.26,Biology,535359
+428,S00429,Julie Malone,2.4,Engineering,172257
+429,S00430,Annette Watkins,2.92,Art,298438
+430,S00431,Justin Hall,2.15,Chemistry,404841
+431,S00432,Seth Larson,2.36,Music,671812
+432,S00433,Jason Crawford,3.41,Anthropology,663392
+433,S00434,Steven Smith,2.59,Anthropology,401148
+434,S00435,Jason Schultz,2.31,Biology,287308
+435,S00436,Leslie Smith,3.04,Paralegal,376046
+436,S00437,Laura Martin,3.27,Engineering,591110
+437,S00438,Dorothy Brown,3.0,Computer Science,222564
+438,S00439,William Weber,2.63,Chemistry,595184
+439,S00440,Dana Howard,3.25,Music,780640
+440,S00441,Zachary Koch,2.82,Chemistry,150275
+441,S00442,Robert Wade,2.04,Art,596353
+442,S00443,Rebecca Mckee,3.96,Music,434561
+443,S00444,Shelby Curtis,3.06,Music,725320
+444,S00445,Patrick White,3.16,Psychology,589738
+445,S00446,Denise Ramirez,3.7,Art,615466
+446,S00447,Roger Cox,3.92,Psychology,254851
+447,S00448,Andrea Adkins,2.74,Music,728973
+448,S00449,Kaylee Guerrero,2.76,Business Administration,47313
+449,S00450,Kim Wong,2.45,Mathematics,60769
+450,S00451,Barbara Middleton,3.52,Engineering,627185
+451,S00452,Christopher Cook,2.44,Paralegal,612856
+452,S00453,Daniel Flores,3.85,Biology,747898
+453,S00454,Christopher Gardner,2.52,Statistics,599475
+454,S00455,Virginia Bass,3.74,Mathematics,332474
+455,S00456,Ricardo Matthews,3.76,Chemistry,48271
+456,S00457,Lisa Morgan,3.28,Paralegal,400234
+457,S00458,Tyler Combs,2.16,Biology,297955
+458,S00459,Raymond Santos,3.28,Mathematics,789119
+459,S00460,Thomas Spencer,2.62,Chemistry,98399
+460,S00461,Michael House,3.82,Art,660975
+461,S00462,Ruben Hill,3.01,Psychology,285805
+462,S00463,Sarah Ramirez,2.59,Biology,485937
+463,S00464,Chelsea Martinez,3.33,Psychology,619926
+464,S00465,Chad Hunt,3.2,Economics,383358
+465,S00466,Ian Simmons,3.91,Chemistry,29877
+466,S00467,Michael White,2.31,Chemistry,361886
+467,S00468,Andrew Brewer,3.21,Engineering,725627
+468,S00469,Kristina Walton,3.19,Music,787663
+469,S00470,Chris Thompson,3.1,Engineering,529769
+470,S00471,Scott Elliott,2.05,Computer Science,461146
+471,S00472,Megan Walker,2.05,Mathematics,129463
+472,S00473,Judy Humphrey,2.15,Music,546503
+473,S00474,Cathy Elliott,3.69,Law,92427
+474,S00475,Tiffany Gonzalez,3.9,Business Administration,772164
+475,S00476,Jessica Wyatt,2.92,Physics,471199
+476,S00477,Joshua Spence,3.55,Psychology,196091
+477,S00478,Richard Hill,2.64,Business Administration,756856
+478,S00479,Shirley Rodriguez,3.77,Engineering,553326
+479,S00480,Jacqueline Waters,3.95,Mathematics,562293
+480,S00481,Shannon Williams,3.5,Chemistry,32335
+481,S00482,Leslie Bailey,3.09,Economics,619470
+482,S00483,Brandon Wilson,3.09,Physics,542420
+483,S00484,Kelly Rogers,2.98,Art,601586
+484,S00485,Arthur Garza,3.71,Psychology,181606
+485,S00486,Jason Bright,2.76,Music,666841
+486,S00487,Brandy Harris,2.32,Physics,675568
+487,S00488,Willie Orozco,3.16,Music,357265
+488,S00489,Daniel Jackson,3.22,Law,213626
+489,S00490,Jennifer Shannon,3.05,Music,662035
+490,S00491,Richard Chase,2.99,Anthropology,585929
+491,S00492,Eric Davis,2.36,Mathematics,722327
+492,S00493,Luke Griffin,2.07,Art,453852
+493,S00494,Savannah Zuniga,3.45,Political Science,716938
+494,S00495,David Fowler,2.08,Economics,522042
+495,S00496,Ricardo Graham,3.59,Chemistry,429402
+496,S00497,James Mcdonald,2.7,Computer Science,267043
+497,S00498,Tammy Mason,2.19,Anthropology,768371
+498,S00499,Erin Butler,2.47,Computer Science,593844
+499,S00500,Judy Jones,3.64,Mathematics,700868
+500,S00501,Douglas Bryant,2.98,Political Science,389600
+501,S00502,Debra Carlson,2.24,Biology,513132
+502,S00503,Susan Thomas,3.51,Anthropology,540517
+503,S00504,Tracy Stone,2.36,Music,289625
+504,S00505,Debra Foley,3.86,Chemistry,400614
+505,S00506,Tanya Frye,3.74,Physics,172122
+506,S00507,Kyle Callahan,3.99,Art,167359
+507,S00508,Kelly Robinson,3.77,Computer Science,249937
+508,S00509,Krystal Williams,2.17,Statistics,632729
+509,S00510,Zachary Hodges,3.14,Anthropology,55893
+510,S00511,Tiffany Bell,2.66,Law,250680
+511,S00512,Isaac Mcfarland,3.79,Computer Science,303451
+512,S00513,Aaron Sims,3.54,Anthropology,732690
+513,S00514,Dana Bryan,2.59,Paralegal,772367
+514,S00515,John Jones,2.5,Music,356086
+515,S00516,Beth Burgess,2.96,Business Administration,311397
+516,S00517,Caitlin Hernandez,2.59,Music,558863
+517,S00518,David Fitzpatrick,2.99,Law,655743
+518,S00519,Melinda Stark,3.8,Biology,724987
+519,S00520,Robert Garcia,3.9,Psychology,765144
+520,S00521,Eric Mcneil,2.2,Chemistry,616776
+521,S00522,Julian Gardner,3.35,Paralegal,248336
+522,S00523,Michelle Medina,2.59,Business Administration,479991
+523,S00524,Kristine Morgan,3.92,Computer Science,448439
+524,S00525,Barbara Strickland,3.25,Mathematics,471227
+525,S00526,Emily Turner,2.05,Music,35925
+526,S00527,Paul Mcguire,2.46,Anthropology,468559
+527,S00528,Joseph Bradshaw,3.81,Music,338475
+528,S00529,Jennifer Johnson,3.71,Art,381425
+529,S00530,Jessica Brown,3.99,Anthropology,67322
+530,S00531,Joshua Sawyer,2.45,Psychology,620439
+531,S00532,Jeremy Crawford,2.21,Political Science,319476
+532,S00533,Eric Martin,3.83,Statistics,606650
+533,S00534,Christopher Moore,2.88,Political Science,81752
+534,S00535,Rebecca Harvey,3.65,Music,186864
+535,S00536,Jill Collins,2.63,Economics,32494
+536,S00537,Jocelyn Stewart,3.57,Statistics,149594
+537,S00538,Krista Munoz,2.56,Engineering,181269
+538,S00539,Billy Carter,2.97,Physics,281662
+539,S00540,Matthew Duran,3.61,Statistics,510500
+540,S00541,Mary Buchanan,3.47,Mathematics,526473
+541,S00542,Renee Smith,3.17,Music,550797
+542,S00543,Tina Washington,3.36,Computer Science,784628
+543,S00544,Edward Moore,2.99,Art,295701
+544,S00545,Chad Wilson,3.0,Biology,92454
+545,S00546,Nancy Leblanc,2.74,Political Science,753139
+546,S00547,Dawn Russell,2.53,Psychology,394312
+547,S00548,Deborah Butler,2.78,Political Science,394042
+548,S00549,Benjamin Davis,3.42,Business Administration,22270
+549,S00550,Joshua Jenkins,2.16,Music,714339
+550,S00551,Kathleen Jackson,3.73,Business Administration,406343
+551,S00552,Christopher Robertson,2.93,Statistics,664920
+552,S00553,Jeanette West,2.4,Art,505971
+553,S00554,Susan Garrett,2.44,Biology,199303
+554,S00555,Brenda Robinson,3.14,Chemistry,39558
+555,S00556,Sarah Dixon,2.13,Computer Science,206723
+556,S00557,April Ellis,2.52,Mathematics,176618
+557,S00558,Martin Hamilton,3.16,Biology,524246
+558,S00559,Desiree Sullivan,3.4,Political Science,54413
+559,S00560,Alicia Griffith,2.52,Biology,702677
+560,S00561,Matthew Thompson,3.56,Engineering,483830
+561,S00562,Kenneth Nguyen,2.69,Paralegal,710244
+562,S00563,Cynthia Williams,3.3,Political Science,583406
+563,S00564,Dale Graham,3.73,Law,269644
+564,S00565,Alison Gutierrez,2.13,Business Administration,756746
+565,S00566,Kayla Mullen,3.06,Art,163038
+566,S00567,Robin Robertson,3.65,Music,719638
+567,S00568,Rebecca Jennings,2.08,Law,484786
+568,S00569,David Willis,2.43,Mathematics,600310
+569,S00570,John Guerra,2.7,Engineering,325226
+570,S00571,Cynthia Dominguez,3.6,Anthropology,42096
+571,S00572,Steven Kaiser,2.97,Mathematics,136494
+572,S00573,Christina Martin,2.09,Biology,251675
+573,S00574,Douglas Rogers,3.57,Physics,597206
+574,S00575,Patricia Watkins,2.61,Mathematics,353980
+575,S00576,Debbie Zavala,3.8,Art,124417
+576,S00577,Kyle Carson,2.15,Biology,626382
+577,S00578,Charles Cabrera,3.56,Chemistry,413549
+578,S00579,Vicki Howard,2.1,Law,483965
+579,S00580,Mark Goodwin,3.75,Law,284199
+580,S00581,Douglas Liu,2.74,Business Administration,170637
+581,S00582,Taylor Hale,2.95,Anthropology,165782
+582,S00583,Janice Ortiz,3.95,Anthropology,683829
+583,S00584,Shawn Jones,2.25,Business Administration,557397
+584,S00585,Vincent Baker,2.51,Anthropology,135478
+585,S00586,Arthur Bruce,2.13,Engineering,521005
+586,S00587,Christy Sweeney,2.26,Anthropology,395317
+587,S00588,Darrell Williams,3.39,Engineering,585372
+588,S00589,Christine Fields,3.18,Music,55006
+589,S00590,Alexis Rollins,2.52,Physics,305787
+590,S00591,Robin Vega,3.55,Psychology,305231
+591,S00592,Mary Elliott,2.5,Music,533724
+592,S00593,Darren Smith,2.92,Biology,108665
+593,S00594,Brittany Ortega,3.71,Chemistry,411407
+594,S00595,Brooke Anderson,3.69,Paralegal,427480
+595,S00596,Shawn Cook,2.17,Psychology,190788
+596,S00597,Jasmine Kaiser,2.57,Engineering,624015
+597,S00598,Terrance White,3.63,Biology,501087
+598,S00599,Matthew Lyons,2.1,Psychology,607770
+599,S00600,Joshua Lee,3.27,Statistics,21535
+600,S00601,Jacob Stevens,3.95,Economics,414761
+601,S00602,Patricia Peterson,3.58,Anthropology,642144
+602,S00603,Sara Figueroa,3.74,Art,396801
+603,S00604,Ryan Garcia,3.92,Music,196406
+604,S00605,Jake Woodward,2.51,Economics,334770
+605,S00606,Richard Odom,2.89,Paralegal,553778
+606,S00607,Brian Erickson,3.64,Physics,531582
+607,S00608,Eileen Casey,2.37,Anthropology,601134
+608,S00609,Ashley Martinez,2.55,Music,669902
+609,S00610,Kimberly Hodges,3.58,Music,506068
+610,S00611,Isaiah Scott,2.18,Business Administration,30577
+611,S00612,Daniel Gonzalez,2.11,Biology,523911
+612,S00613,Nicole Taylor,3.65,Anthropology,391566
+613,S00614,Caroline Williams,3.94,Statistics,370676
+614,S00615,Joann Skinner,2.19,Anthropology,657281
+615,S00616,Shannon Elliott,2.98,Computer Science,739930
+616,S00617,Laura Choi,2.47,Music,320164
+617,S00618,Kayla Horton,2.82,Mathematics,374658
+618,S00619,Stephanie Walker,3.45,Political Science,208565
+619,S00620,Benjamin Johnson,3.29,Anthropology,146677
+620,S00621,Juan Robertson,2.98,Statistics,743318
+621,S00622,Edward Nelson,3.78,Political Science,434571
+622,S00623,Victoria Brown,2.52,Statistics,327685
+623,S00624,Michael Sims,3.54,Statistics,761664
+624,S00625,Eric Harmon,2.52,Law,239471
+625,S00626,Jesus Flowers,3.86,Political Science,630065
+626,S00627,Debra Perez,3.02,Computer Science,628164
+627,S00628,Melissa Vargas,2.46,Engineering,669296
+628,S00629,John Vasquez,3.12,Chemistry,108905
+629,S00630,Chase Herrera,3.89,Statistics,442344
+630,S00631,April Collins,2.48,Computer Science,357200
+631,S00632,Stephen Hale,3.59,Chemistry,662090
+632,S00633,Wayne Stone,3.55,Art,723479
+633,S00634,Rebecca Brady,2.61,Economics,163432
+634,S00635,Evelyn Navarro,2.91,Chemistry,483150
+635,S00636,Heather Donaldson,3.55,Mathematics,400714
+636,S00637,Micheal Bailey,3.7,Biology,250288
+637,S00638,Tammy Martin,3.69,Music,79175
+638,S00639,Nicole Gates,3.03,Engineering,719874
+639,S00640,Diana Johnston,3.8,Economics,369615
+640,S00641,Morgan Copeland,3.32,Political Science,734078
+641,S00642,Alyssa Wallace,3.58,Statistics,182691
+642,S00643,Amy Duncan,3.24,Chemistry,772700
+643,S00644,Debbie Watson,3.04,Economics,620312
+644,S00645,Ronald Cruz,3.39,Art,189919
+645,S00646,Bradley Green,2.55,Chemistry,119037
+646,S00647,Teresa Hudson,3.23,Computer Science,383981
+647,S00648,Anthony Smith,3.63,Business Administration,243765
+648,S00649,Ashley Morgan,3.12,Computer Science,738328
+649,S00650,Tina Holt,3.98,Engineering,396843
+650,S00651,Cody Rodriguez,2.8,Economics,718797
+651,S00652,Jill Zimmerman,2.2,Paralegal,198537
+652,S00653,Daniel Morris,3.15,Business Administration,595287
+653,S00654,Troy Parker,2.01,Chemistry,427224
+654,S00655,Angela Burns,3.78,Business Administration,21453
+655,S00656,Steven Russell,2.56,Mathematics,373025
+656,S00657,Paul Baker,3.92,Law,198471
+657,S00658,Dennis Estrada,2.5,Anthropology,326066
+658,S00659,Kevin Marquez,3.82,Computer Science,115727
+659,S00660,Kimberly Gonzalez,2.52,Business Administration,584769
+660,S00661,Rebecca Hernandez,3.29,Political Science,741174
+661,S00662,Laura Haynes,3.77,Statistics,743070
+662,S00663,Jennifer Perez,3.48,Psychology,50522
+663,S00664,John Reed,3.73,Paralegal,602003
+664,S00665,David Blackburn,3.21,Business Administration,667748
+665,S00666,John White,3.35,Art,661026
+666,S00667,Angela Howell,2.74,Music,360774
+667,S00668,Richard Macdonald,3.26,Psychology,709694
+668,S00669,Bradley Mcguire,3.85,Business Administration,258204
+669,S00670,John Weiss,3.54,Paralegal,73727
+670,S00671,Jeffrey Jordan,2.11,Computer Science,530790
+671,S00672,Crystal Bryan,3.2,Music,280966
+672,S00673,William Long,3.15,Computer Science,547103
+673,S00674,Shannon King,2.75,Business Administration,672257
+674,S00675,Tricia Mendoza,3.96,Political Science,30138
+675,S00676,Denise Roberts,3.81,Art,29613
+676,S00677,Tony Hall,2.68,Music,302803
+677,S00678,Abigail Matthews,3.32,Chemistry,234057
+678,S00679,Brianna Brown,2.01,Mathematics,445294
+679,S00680,James Olson,2.14,Law,352287
+680,S00681,Ronald Hill,3.08,Mathematics,703769
+681,S00682,Nancy Wood,3.8,Business Administration,670088
+682,S00683,Antonio Bailey,3.49,Statistics,730307
+683,S00684,Adam Clark,2.73,Statistics,525135
+684,S00685,Scott Thomas,3.72,Mathematics,440372
+685,S00686,Scott Wong,2.38,Physics,240453
+686,S00687,Brittney Ellis,3.05,Engineering,718920
+687,S00688,Mackenzie Rogers,3.86,Business Administration,542202
+688,S00689,Shane Maddox,2.51,Statistics,287108
+689,S00690,Monica Foley,2.02,Chemistry,152487
+690,S00691,Tracey Smith,3.11,Engineering,389318
+691,S00692,Christian Cunningham,3.16,Law,452926
+692,S00693,Ashley Collins,2.37,Mathematics,227421
+693,S00694,Victoria Mcbride,3.3,Business Administration,42264
+694,S00695,Jorge Baker,3.74,Chemistry,574032
+695,S00696,Felicia Taylor,2.97,Anthropology,475218
+696,S00697,Rebecca Phillips,2.26,Business Administration,725900
+697,S00698,Nicole Mclaughlin,2.4,Paralegal,447605
+698,S00699,James Thomas,2.55,Mathematics,90156
+699,S00700,Heather Fields,2.43,Political Science,235766
+700,S00701,Elizabeth Mullins,2.26,Physics,388167
+701,S00702,Robert Morgan,3.18,Business Administration,99808
+702,S00703,Sandra Garcia,2.0,Engineering,713080
+703,S00704,Jason Moore,2.57,Business Administration,189388
+704,S00705,Walter Novak,2.45,Art,389730
+705,S00706,Jennifer Cunningham,2.21,Paralegal,799937
+706,S00707,Harold Duncan,2.2,Physics,251412
+707,S00708,Morgan Campbell,2.17,Computer Science,759138
+708,S00709,Steven Rush,3.17,Chemistry,567319
+709,S00710,Katie Rush,3.25,Psychology,346569
+710,S00711,Christina Smith,3.74,Paralegal,353534
+711,S00712,Ronald Barr,3.87,Business Administration,373237
+712,S00713,Tina Fisher,3.28,Business Administration,538449
+713,S00714,Anita Reese,2.67,Mathematics,749348
+714,S00715,Brian Kim,3.58,Paralegal,78629
+715,S00716,Jeffrey Kim,2.46,Music,21010
+716,S00717,Tracy Diaz,3.91,Political Science,275785
+717,S00718,Douglas Jordan,2.54,Computer Science,431485
+718,S00719,Amy Gould,2.66,Statistics,365953
+719,S00720,Jeremy Todd,2.3,Economics,649792
+720,S00721,Joseph Fitzpatrick,3.44,Engineering,433217
+721,S00722,Mary Duffy,3.7,Economics,530733
+722,S00723,Lori Eaton,3.89,Political Science,450255
+723,S00724,Michael Bass,2.79,Business Administration,241716
+724,S00725,Daniel Gray,3.41,Paralegal,462504
+725,S00726,Stephanie Thompson,3.98,Music,585775
+726,S00727,Kiara White,3.34,Business Administration,74603
+727,S00728,Daniel Mathis,2.73,Psychology,282824
+728,S00729,Sarah Burns,2.45,Computer Science,513488
+729,S00730,Raymond Frazier,2.03,Economics,114562
+730,S00731,Cassidy Johnson,2.37,Mathematics,725610
+731,S00732,Michelle Ware,2.94,Anthropology,226682
+732,S00733,Maxwell Hamilton,3.67,Chemistry,543503
+733,S00734,Christopher Williamson,2.67,Music,211510
+734,S00735,Destiny Underwood,3.88,Paralegal,582787
+735,S00736,Peter Allen,2.09,Mathematics,94997
+736,S00737,George Whitaker,3.25,Political Science,372590
+737,S00738,Deanna Lara,3.58,Mathematics,274653
+738,S00739,Kristina Chavez,2.5,Economics,595597
+739,S00740,Tom Ayers,3.82,Business Administration,28115
+740,S00741,Annette Benson,2.73,Biology,220174
+741,S00742,Susan Marks,2.82,Anthropology,435021
+742,S00743,Kathleen Martinez,3.85,Anthropology,456262
+743,S00744,Jared Wilson,3.5,Statistics,580986
+744,S00745,Cory Schneider,2.32,Physics,761870
+745,S00746,Peter Williams,2.84,Computer Science,610881
+746,S00747,Kelly Allen,2.16,Chemistry,40185
+747,S00748,Dave Klein,3.11,Political Science,410013
+748,S00749,Robert Juarez,2.52,Law,413204
+749,S00750,Laura Le,3.23,Physics,154251
+750,S00751,Hannah Harris,2.93,Statistics,287186
+751,S00752,Vincent Smith,3.8,Economics,706074
+752,S00753,Melanie Gonzalez,3.0,Biology,428109
+753,S00754,Scott Lopez,2.38,Paralegal,587255
+754,S00755,Hermione Simmons,3.95,Engineering,747250
+755,S00756,Nancy Valdez,3.69,Mathematics,125123
+756,S00757,Brian Mack,2.45,Biology,158227
+757,S00758,Randy Lyons,2.14,Biology,615929
+758,S00759,Judy Sanchez,3.27,Art,648369
+759,S00760,Jackie Daniel,2.6,Law,308065
+760,S00761,Jay Riley,2.5,Paralegal,587775
+761,S00762,Joseph Jones,3.87,Chemistry,149314
+762,S00763,Kristin Walton,2.98,Law,144583
+763,S00764,Melissa Long,2.26,Anthropology,44707
+764,S00765,Crystal Johns,2.27,Computer Science,61945
+765,S00766,Jessica Powers,2.48,Biology,112757
+766,S00767,Paul Tapia,2.5,Political Science,96499
+767,S00768,Shawn Brennan,3.8,Physics,202064
+768,S00769,Charles Gross,3.37,Anthropology,779927
+769,S00770,Jessica Anderson,3.36,Economics,303476
+770,S00771,Peter Guzman,3.45,Political Science,610412
+771,S00772,Sonya Costa,3.23,Computer Science,272518
+772,S00773,Kimberly Benson,3.13,Law,425419
+773,S00774,Katherine Sullivan,2.6,Law,404298
+774,S00775,David Stephens,2.27,Business Administration,235566
+775,S00776,Ruben Ramsey,3.25,Law,461794
+776,S00777,Daniel Rivera,3.56,Political Science,380216
+777,S00778,Brenda Anderson,2.65,Physics,609331
+778,S00779,Juan Dixon,3.9,Art,406185
+779,S00780,Dale Mcclain,3.96,Law,111126
+780,S00781,Sandra Todd,2.06,Political Science,37737
+781,S00782,Melody Weaver,3.77,Physics,392453
+782,S00783,David Smith,3.87,Art,150775
+783,S00784,Ashley Crawford,3.54,Law,672861
+784,S00785,Oscar Brooks,3.73,Physics,542442
+785,S00786,James Parks,3.34,Music,692873
+786,S00787,Paul Patel,3.78,Engineering,79562
+787,S00788,Rebecca Mcdowell,3.26,Engineering,293983
+788,S00789,Sharon Watson,2.28,Music,272100
+789,S00790,Anna Wise,3.74,Computer Science,486357
+790,S00791,Michael Ayers,2.4,Biology,487842
+791,S00792,Martin Porter,2.55,Engineering,178895
+792,S00793,Nicole Dixon,2.26,Biology,246501
+793,S00794,Christopher Joseph,3.97,Business Administration,581575
+794,S00795,Amanda Cabrera,3.0,Law,791840
+795,S00796,James Vargas,2.2,Statistics,451228
+796,S00797,Mary George,3.27,Psychology,191608
+797,S00798,Wesley Gonzalez,2.22,Engineering,743569
+798,S00799,Nicole Whitehead,3.04,Chemistry,429105
+799,S00800,Trevor Suarez,2.37,Political Science,307665
+800,S00801,Christopher Garcia,2.02,Chemistry,206776
+801,S00802,Alexandra Cobb,3.29,Physics,395961
+802,S00803,Kimberly Moore,2.74,Biology,754323
+803,S00804,Christopher Mccann,3.35,Physics,89794
+804,S00805,Tonya Black,2.15,Economics,53444
+805,S00806,Maria Barnes,2.7,Business Administration,638718
+806,S00807,Lisa Kidd,2.21,Law,787503
+807,S00808,Mallory Atkinson,2.07,Statistics,785829
+808,S00809,Kathy Garcia,2.67,Chemistry,672989
+809,S00810,John Scott,2.55,Physics,57705
+810,S00811,Deanna Rose,2.88,Law,326606
+811,S00812,Jeffrey Johnson,2.48,Economics,396741
+812,S00813,Joshua Smith,2.67,Economics,121661
+813,S00814,Leroy Obrien,3.7,Music,601404
+814,S00815,Jessica Horton,3.67,Psychology,523017
+815,S00816,Melanie Smith,3.34,Law,222972
+816,S00817,Brandi Pacheco,2.22,Law,621743
+817,S00818,Alexis Brown,2.9,Paralegal,178794
+818,S00819,Yolanda Lewis,3.63,Business Administration,695300
+819,S00820,Sandra Wagner,2.08,Computer Science,769890
+820,S00821,Barry Spence,2.33,Mathematics,385063
+821,S00822,Amanda Mckee,2.41,Law,138242
+822,S00823,Stacie Anderson,4.0,Mathematics,665542
+823,S00824,Ashley Barber,3.33,Mathematics,328870
+824,S00825,Ryan Bird,3.17,Statistics,459886
+825,S00826,Kathryn Robinson,3.71,Paralegal,705837
+826,S00827,Jason Schmidt,3.14,Mathematics,168189
+827,S00828,Jean Meyer,3.9,Business Administration,329638
+828,S00829,Annette Solis,3.79,Political Science,247232
+829,S00830,Leah Sanchez,3.15,Computer Science,247687
+830,S00831,Lauren Green,2.1,Political Science,334491
+831,S00832,Christopher Nelson,2.52,Anthropology,133504
+832,S00833,Kim Ramirez,3.88,Mathematics,684629
+833,S00834,Timothy Cruz,2.54,Anthropology,519270
+834,S00835,Denise Fleming,3.35,Paralegal,86220
+835,S00836,Shawn Vance,3.21,Paralegal,39250
+836,S00837,David Acosta,2.63,Political Science,688041
+837,S00838,Laura Nunez,3.15,Mathematics,477180
+838,S00839,Frank Meadows,2.94,Political Science,249271
+839,S00840,Amber Coleman,3.41,Biology,216876
+840,S00841,Alicia Carter,3.09,Music,715008
+841,S00842,Sean Frederick,3.29,Engineering,187098
+842,S00843,Geoffrey Allen,2.72,Paralegal,162675
+843,S00844,Andrea Decker,3.84,Law,750701
+844,S00845,Nancy Zavala,2.2,Chemistry,590283
+845,S00846,Kelly Miller,3.18,Mathematics,93637
+846,S00847,Daniel Pace,2.87,Psychology,569852
+847,S00848,William Robinson,4.0,Physics,23551
+848,S00849,Melissa Sutton,3.51,Biology,154168
+849,S00850,Janet Ruiz,2.85,Physics,439445
+850,S00851,Aaron Flores,3.13,Law,258064
+851,S00852,Thomas Mclaughlin,3.79,Statistics,186834
+852,S00853,Brian Davis,2.24,Statistics,578365
+853,S00854,Alan Roberts,3.04,Engineering,187401
+854,S00855,Audrey Hampton,2.42,Engineering,578885
+855,S00856,Ashley Stewart,3.41,Art,506456
+856,S00857,Tara Spencer,2.43,Mathematics,266795
+857,S00858,Manuel Huff,3.36,Economics,286034
+858,S00859,Cassandra Baldwin,3.63,Engineering,629585
+859,S00860,Martha Austin,2.3,Paralegal,228860
+860,S00861,Patrick Johnson,3.16,Mathematics,234937
+861,S00862,David David,3.31,Engineering,447290
+862,S00863,Jennifer Hall,3.74,Chemistry,201472
+863,S00864,Carolyn Holmes,3.21,Chemistry,734949
+864,S00865,Lance Martinez,2.5,Statistics,489953
+865,S00866,Jenny Underwood,3.2,Music,35849
+866,S00867,Meghan Evans,2.55,Chemistry,270535
+867,S00868,Michael Best,2.93,Art,141259
+868,S00869,John Garcia,3.66,Chemistry,466377
+869,S00870,Lauren Parks,2.85,Statistics,143320
+870,S00871,Guy Mccarthy,3.99,Paralegal,396880
+871,S00872,Brian Scott,3.24,Music,503781
+872,S00873,Kendra Cook,2.16,Political Science,735225
+873,S00874,John Estrada,2.1,Mathematics,465668
+874,S00875,Tammy Oconnell,3.57,Physics,534218
+875,S00876,Jacqueline Johnson,2.93,Political Science,522019
+876,S00877,John Hendrix,3.27,Business Administration,245040
+877,S00878,Julie Noble,2.84,Computer Science,688518
+878,S00879,Laura Zimmerman,3.21,Art,684586
+879,S00880,Erin Woods,3.91,Psychology,99329
+880,S00881,Eileen Hopkins,2.18,Biology,499400
+881,S00882,Jenny Velasquez,2.34,Engineering,267201
+882,S00883,Jason Ward,3.21,Anthropology,347195
+883,S00884,Charles Allison,2.94,Political Science,657757
+884,S00885,Valerie Moore,2.67,Statistics,696356
+885,S00886,Amber Riley,2.25,Engineering,81088
+886,S00887,Abigail Buchanan,3.86,Economics,606648
+887,S00888,Martin King,2.96,Computer Science,104197
+888,S00889,Heidi Saunders,3.54,Statistics,244470
+889,S00890,Jake Hudson,3.02,Biology,784413
+890,S00891,Regina Edwards,2.87,Psychology,95713
+891,S00892,Paul Mata,2.29,Paralegal,128458
+892,S00893,Jennifer Carpenter,2.83,Psychology,716590
+893,S00894,Kathy Daniel,3.84,Paralegal,537208
+894,S00895,Glen Wilkins,3.8,Law,634565
+895,S00896,Dennis Lee,2.9,Biology,149702
+896,S00897,Debbie Green,3.17,Chemistry,176081
+897,S00898,Jill Hendricks,2.57,Computer Science,486545
+898,S00899,Jacob Harrington,3.38,Economics,167549
+899,S00900,Dawn Norris,3.96,Music,268266
+900,S00901,Ernest Williams,2.59,Psychology,186733
+901,S00902,Leah Reyes,3.18,Engineering,778922
+902,S00903,Ricky Martinez,2.54,Paralegal,500684
+903,S00904,Vincent Anderson,2.65,Mathematics,294714
+904,S00905,Cassie Pace,3.23,Engineering,36806
+905,S00906,Jaime Barrera,2.56,Anthropology,394268
+906,S00907,Eric Rodriguez,2.51,Mathematics,482090
+907,S00908,Heidi Benson,3.73,Mathematics,191331
+908,S00909,Kimberly Frazier,2.37,Art,428827
+909,S00910,Christopher Gonzalez,3.95,Art,566400
+910,S00911,Alyssa Hill,2.15,Biology,330027
+911,S00912,Yolanda Chandler,2.93,Political Science,169756
+912,S00913,Jeffery Andrews,2.84,Chemistry,547507
+913,S00914,Jay Taylor,2.46,Computer Science,502097
+914,S00915,Sherry Bailey,2.14,Mathematics,124680
+915,S00916,Peter Anderson,2.77,Physics,126993
+916,S00917,Brittany Patrick,2.28,Business Administration,588807
+917,S00918,Gilbert Mata,3.67,Paralegal,492604
+918,S00919,Valerie Davis,2.39,Art,153506
+919,S00920,Spencer Ball,3.12,Statistics,608566
+920,S00921,Holly Davis,3.51,Economics,91520
+921,S00922,Laura Good,2.86,Paralegal,216798
+922,S00923,James Goodwin,2.25,Mathematics,769245
+923,S00924,Nicole Duarte,3.51,Anthropology,293866
+924,S00925,Dustin Coleman,2.96,Law,422780
+925,S00926,Vanessa Lawrence,2.12,Chemistry,348370
+926,S00927,David Simpson,2.49,Paralegal,268629
+927,S00928,Lori White,3.48,Chemistry,87088
+928,S00929,Vincent Butler,2.43,Law,248589
+929,S00930,John Harrison,3.21,Chemistry,523946
+930,S00931,David Robinson,3.57,Mathematics,206185
+931,S00932,Erin Rich,2.72,Business Administration,114381
+932,S00933,Brooke Jones,2.14,Biology,741041
+933,S00934,Brandon Morrison,2.72,Paralegal,556690
+934,S00935,Travis Bradford,3.97,Art,275915
+935,S00936,John Gomez,2.33,Engineering,67698
+936,S00937,Melissa Reynolds,2.31,Computer Science,734585
+937,S00938,Melissa Hernandez,2.87,Mathematics,675249
+938,S00939,Jorge Ibarra,3.78,Engineering,115514
+939,S00940,Benjamin Le,3.42,Statistics,215449
+940,S00941,Sandra Richard,2.08,Paralegal,499202
+941,S00942,Troy Taylor,3.71,Anthropology,496558
+942,S00943,Lisa Larson,3.09,Anthropology,80627
+943,S00944,Joshua Adams,2.38,Mathematics,555563
+944,S00945,Debbie Mcdonald,3.91,Computer Science,673574
+945,S00946,David Brown,3.43,Statistics,279314
+946,S00947,Walter Davis,2.25,Chemistry,488588
+947,S00948,Russell Hill,3.61,Mathematics,271503
+948,S00949,Savannah Frank,3.79,Physics,113427
+949,S00950,Dustin Bush,2.26,Mathematics,449380
+950,S00951,Jessica Harris,3.87,Mathematics,528502
+951,S00952,Julia Wang,2.6,Physics,707136
+952,S00953,Christopher Hall,2.85,Business Administration,83544
+953,S00954,Sabrina Sutton,2.91,Anthropology,86193
+954,S00955,Michael Brown,3.56,Music,622965
+955,S00956,Laurie Hudson,2.97,Chemistry,785771
+956,S00957,Stacy Ayala,2.05,Statistics,568666
+957,S00958,Chris Frazier,2.65,Statistics,391315
+958,S00959,Todd Johnson,2.18,Law,758977
+959,S00960,David Cortez,3.98,Anthropology,501559
+960,S00961,Sandra Nelson,3.05,Economics,433399
+961,S00962,Richard Hernandez,3.92,Biology,137691
+962,S00963,Andrew Davis,3.39,Computer Science,343047
+963,S00964,Hannah Moore,3.73,Economics,485666
+964,S00965,Katherine Young,3.55,Engineering,207113
+965,S00966,Nina Garcia,3.98,Chemistry,391664
+966,S00967,Nathan Campos,3.14,Statistics,163152
+967,S00968,John Leblanc,3.17,Biology,700825
+968,S00969,Kayla Baker,3.39,Biology,175903
+969,S00970,Steven Banks,2.84,Physics,141445
+970,S00971,Travis Hanson,2.54,Biology,356156
+971,S00972,Katie Thompson,2.33,Anthropology,547041
+972,S00973,Christopher Ward,3.83,Paralegal,245168
+973,S00974,Sarah Miller,3.83,Computer Science,149920
+974,S00975,Linda Davis,2.91,Art,636030
+975,S00976,Stephen Jackson,3.36,Mathematics,140120
+976,S00977,Marc Welch,2.2,Mathematics,63195
+977,S00978,James Blackburn,2.09,Chemistry,217866
+978,S00979,Brooke Riley,2.87,Mathematics,45813
+979,S00980,Amy Thompson,3.18,Business Administration,742350
+980,S00981,Sheila Buchanan,3.01,Music,392578
+981,S00982,Vanessa Nichols,3.73,Psychology,475220
+982,S00983,George Leonard,2.11,Business Administration,527450
+983,S00984,Brooke Thomas,3.19,Physics,48447
+984,S00985,Carl Kelly,2.62,Physics,76330
+985,S00986,Caitlin Morales,3.03,Paralegal,456293
+986,S00987,Bradley Banks,3.76,Engineering,104001
+987,S00988,Alexis Ellis,2.13,Mathematics,605751
+988,S00989,Deanna Cunningham,3.59,Biology,761587
+989,S00990,Megan Robinson,3.44,Psychology,594702
+990,S00991,Erin Salazar,3.24,Chemistry,102660
+991,S00992,Betty Andrews,2.05,Engineering,247151
+992,S00993,Leah Manning,3.81,Chemistry,243629
+993,S00994,Jocelyn Rice,2.05,Engineering,611764
+994,S00995,Christopher Brewer,2.64,Physics,463313
+995,S00996,Nicole Clay,3.97,Chemistry,353792
+996,S00997,Tammy Rose,3.34,Computer Science,414283
+997,S00998,Jeff Alvarez,3.96,Psychology,450287
+998,S00999,Thomas Lowe,3.02,Business Administration,54775
+999,S01000,Veronica Barker,3.29,Anthropology,270061
